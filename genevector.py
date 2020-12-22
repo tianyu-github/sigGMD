@@ -2,14 +2,13 @@
 """
 Created on Sat Sep 29 21:46:40 2018
 
-@author: peng
+@author: tianyu
 """
 
 import os
 import numpy as np
 import pandas as pd
 #os.chdir('/home/tiw15008/cleanfiles/fasttextmodel/')
-os.chdir('/Users/peng/google drive/fasttext/testword2vec/fasttextmodel/')
 
 
 from gensim.models import FastText
